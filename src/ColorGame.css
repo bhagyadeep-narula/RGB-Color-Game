@@ -1,0 +1,92 @@
+body {
+  background-color: #232323;
+  margin: inherit;
+  font-family: 'Nunito', sans-serif;
+  zoom: 110%;
+}
+
+#container {
+  max-width: 700px ;
+  margin: 20px auto;
+}
+
+#container2 {
+  max-width: 700px ;
+  margin: 20px auto;
+  color: white;
+  text-align: center;
+  line-height: 0.9;
+}
+
+.square {
+  width: 30% ;
+  margin: 1.66% ;
+  padding-bottom: 30%;
+  float: left;
+  border-radius: 15% ;
+  transition: background 0.3s;
+  -webkit-transition: background 0.3s;
+  -moz-transition: background 0.3s;
+}
+
+h1 {
+  color: white ;
+  text-align: center;
+  background-color: steelblue;
+  margin: inherit;
+  line-height: 1.1;
+  padding: 20px 0;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 128px;
+  margin: 200px auto;
+  letter-spacing: -4px;
+}
+
+#congrats {
+  font-size: 72px;
+}
+
+button {
+  background: none ;
+  height: 100%;
+  outline: none;
+  border: none;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: steelblue;
+  transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+}
+
+#stripe {
+  background-color: white;
+  height: 30px;
+  text-align: center;
+  color: black;
+}
+
+.selected {
+  color: white;
+  background-color: steelblue;
+}
+
+#colorDisplay {
+  font-size: 200%;
+}
+
+#message {
+  display: inline-block;
+  width: 20%;
+}
+
+button:hover {
+  color: white;
+  background-color: steelblue;
+}

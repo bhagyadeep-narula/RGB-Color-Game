@@ -1,5 +1,5 @@
 # Color-Game
-A Great RGB Color Guessing Game Made With ( Html , CSS , JavaScript )
+A Cool RGB Color Guessing Game Made With ( Html , CSS , JavaScript )
 # https://rgbcolourgame.firebaseapp.com/
 
 I will Add ( How To Play ) And Scores And User Sign In So that they can <br>
